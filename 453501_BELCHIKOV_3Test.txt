@@ -1,1 +1,2 @@
 some text int file 453501_BELCHIKOV3Test.txt
+Lorem text that will be saved in local and remote repository IGI_LR1
